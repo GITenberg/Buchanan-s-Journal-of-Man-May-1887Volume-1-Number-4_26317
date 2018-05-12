@@ -1,0 +1,34 @@
+_repo: Buchanan-s-Journal-of-Man-May-1887Volume-1-Number-4_26317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Buchanan, Joseph R. (Joseph Rodes)
+    aliases:
+    - Buchanan, Joseph Rodes
+    - Buchanan, J. R.
+    birthdate: 1814
+    deathdate: 1899
+    gutenberg_agent_id: '25273'
+    url: http://www.gutenberg.org/2009/agents/25273
+description: ''
+gutenberg_bookshelf: Buchanan's Journal of Man
+gutenberg_issued: '2008-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phrenology -- Periodicals'
+- !lcc 'BF'
+- !lcsh 'Medicine -- Periodicals'
+- !lcsh 'Science -- Periodicals'
+title: 'Buchanan''s Journal of Man, May 1887
+
+  Volume 1, Number 4'
+url: http://www.gutenberg.org/ebooks/26317
